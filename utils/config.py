@@ -1,0 +1,14 @@
+# Network Configuration
+
+HOST = "0.0.0.0"
+PORT = 5000
+
+BUFFER_SIZE = 1024 * 1024      # 1 MB
+
+SAVE_FOLDER = "received_files"
+
+DISCOVERY_PORT = 5001
+
+DISCOVERY_MESSAGE = "LANSHARE_DISCOVERY"
+
+AES_KEY = b"1234567890123456"
